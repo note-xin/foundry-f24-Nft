@@ -12,3 +12,9 @@ docs/
 
 # Dotenv file
 .env
+
+# Other files
+lib/
+broadcast/
+coverage.txt
+report/

@@ -1,0 +1,15 @@
+{
+  "name":"KURO",
+  "description":"The darkness incarnate, KURO is a powerful being that can control the shadows and bend them to his will. He is a master of stealth and can move without making a sound.",
+  "image":"ipfs://bafybeigodpgkgvklpjdizki7nwreoidimb2wqbpdukn3vk7pohapq7cp2q/?filename=2.KURO.png",
+  "attributes": [
+      {
+        "trait_type":"TYPE",
+        "value":"DARKNESS"
+      },
+      {
+        "trait_type":"CLASS",
+        "value":"SSS"
+      }
+  ]
+}

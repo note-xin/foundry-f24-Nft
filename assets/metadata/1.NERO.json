@@ -1,0 +1,15 @@
+{
+  "name":"NERO",
+  "description":"The harbiger of the end of days. The bringer of darkness. The destroyer of worlds. The one and only NERO.",
+  "image":"ipfs://bafybeidspbg4fsvd3kjijtdtlsoegcj2htydynl2vadd3malj742buoihq/?filename=1.NERO.png",
+  "attributes": [
+      {
+        "trait_type":"TYPE",
+        "value":"LIGHT"
+      },
+      {
+        "trait_type":"CLASS",
+        "value":"SSS"
+      }
+  ]
+}
